@@ -38,7 +38,7 @@
 	</section>
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="204"/>
-		<item key="DIALOG_Y_ORIGIN" value="-78"/>
+		<item key="DIALOG_Y_ORIGIN" value="-18"/>
 		<item key="DIALOG_WIDTH" value="515"/>
 		<item key="DIALOG_HEIGHT" value="680"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.08108|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -58,16 +58,23 @@
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="204"/>
-		<item key="DIALOG_Y_ORIGIN" value="-78"/>
+		<item key="DIALOG_Y_ORIGIN" value="-18"/>
 		<item key="DIALOG_WIDTH" value="515"/>
 		<item key="DIALOG_HEIGHT" value="699"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.08108|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="DialogBounds_GenerateHashCodeEqualsDialog">
 		<item key="DIALOG_X_ORIGIN" value="204"/>
-		<item key="DIALOG_Y_ORIGIN" value="-47"/>
+		<item key="DIALOG_Y_ORIGIN" value="-18"/>
 		<item key="DIALOG_WIDTH" value="515"/>
 		<item key="DIALOG_HEIGHT" value="596"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.08108|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH" value="400"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT" value="360"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 	</section>
 </section>
